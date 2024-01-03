@@ -15,3 +15,9 @@ The trained GAN model is too large to be uploaded to this repository. Instead, a
 ## Generated Images
 You can find a selection of generated face images in the Generated Images directory. These images are provided to give you a glimpse of what the GAN model can produce.
 
+## Dependencies
+The project requires the following dependencies:
+- Python 3.7
+- keras 2.4.3
+- Numpy 1.19.2
+- Matplotlib 3.3.2
